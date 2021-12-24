@@ -1,6 +1,8 @@
 # Golang Learn with React Native
 Watch the video
 [![Watch the video](https://i9.ytimg.com/vi/x4_dZDtGhZA/mq1.jpg?sqp=CMzTsocG&rs=AOn4CLDngWRXX-v_nceBaswyuIDYsAxi7w)](https://www.youtube.com/watch?v=x4_dZDtGhZA)
+![image](https://user-images.githubusercontent.com/61113097/147371930-c9a3eef4-3c67-4326-88ea-ad539f6abbb1.png)
+
 
 ## Quick Start
 
