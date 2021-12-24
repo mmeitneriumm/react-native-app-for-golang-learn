@@ -1,5 +1,7 @@
 # Golang Learn with React Native
-![image](https://user-images.githubusercontent.com/61113097/147371930-c9a3eef4-3c67-4326-88ea-ad539f6abbb1.png) ![image](https://user-images.githubusercontent.com/61113097/147371955-9db01d28-cbd2-4f2b-ba00-3a74ba974ed0.png) ![image](https://user-images.githubusercontent.com/61113097/147371962-ecc0111f-1e96-45e3-b781-45746c8a57c3.png)
+<img src="https://user-images.githubusercontent.com/61113097/147371930-c9a3eef4-3c67-4326-88ea-ad539f6abbb1.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/61113097/147371962-ecc0111f-1e96-45e3-b781-45746c8a57c3.png" width="100" /> 
+  <img src="https://user-images.githubusercontent.com/61113097/147371955-9db01d28-cbd2-4f2b-ba00-3a74ba974ed0.png" width="100" />
 Watch the video
 [![Watch the video](https://i9.ytimg.com/vi/x4_dZDtGhZA/mq1.jpg?sqp=CMzTsocG&rs=AOn4CLDngWRXX-v_nceBaswyuIDYsAxi7w)](https://www.youtube.com/watch?v=x4_dZDtGhZA)
 
